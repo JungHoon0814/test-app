@@ -1,0 +1,17 @@
+.word {
+  display: block;
+  color:aqua;
+  font-size: 6rem;
+  text-align: center;
+  margin-top: 12%;
+  background-color: darkgray;
+  height: 400px;
+}
+
+.mobileimg {
+  display: block;
+  margin: 10px, auto;
+  width: 200px;
+  height: 300px;
+
+}
